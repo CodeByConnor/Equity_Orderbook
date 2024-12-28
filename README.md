@@ -39,7 +39,8 @@ To compile and run the program, follow these steps:
 ## Expected Output:
 
 ### Initial Orderbook:
-![Screenshot 1](Screenshot 2024-12-28 at 3.20.08 PM.png)
+<img width="617" alt="Screenshot 2024-12-28 at 3 20 08 PM" src="https://github.com/user-attachments/assets/bc362be6-82ff-4a47-a39b-2f9661e91553" />
+
 
 ### Partial Limit Buy:
 ![Screenshot 2](ss/Screenshot%202024-12-28%20at%203.25.30%20PM.png)
