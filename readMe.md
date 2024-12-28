@@ -5,7 +5,7 @@ This project simulates a basic orderbook in C++, a critical component in financi
 ***
 
 # Author 
-**[Connor Pham]**
+**Connor Pham**
 
 ***
 
@@ -38,12 +38,14 @@ To compile and run the program, follow these steps:
 
 ## Expected Output:
 
-Initial Orderbook: 
-![Screenshot 1](ss/Screenshot 2024-12-28 at 3.20.08 PM.png)
+### Initial Orderbook:
+![Screenshot 1](ss/Screenshot%202024-12-28%20at%203.20.08%20PM.png)
 
-![Screenshot 2](ss/Screenshot 2024-12-28 at 3.25.30 PM.png)
+### Partial Limit Buy:
+![Screenshot 2](ss/Screenshot%202024-12-28%20at%203.25.30%20PM.png)
 
-![Screenshot 3](ss/Screenshot 2024-12-28 at 3.25.54 PM.png)
+### Partial Market Buy:
+![Screenshot 3](ss/Screenshot%202024-12-28%20at%203.25.54%20PM.png)
 ***
 
 ## Lessons Learned: 
