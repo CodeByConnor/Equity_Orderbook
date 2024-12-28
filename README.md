@@ -1,28 +1,20 @@
-Equities Orderbook in C++
+**Equities Orderbook in C++**
 
-Overview
+**Overview**
 
 This project implements an Equities Orderbook in C++, a core component of financial trading systems. It facilitates the management of buy and sell orders using efficient algorithms, ensuring accurate and fast order execution. The program is designed to handle both market and limit orders, support partial and full fills, and provide a clear visual representation of the orderbook.
+**
+Features**
+- FIFO Queue Matching Algorithm
+- Market & Limit Orders
+- Partial and Full Fills
+- Execution Timing
+- Visualization
 
-Features
-
-FIFO Queue Matching Algorithm: Ensures fair and efficient order matching.
-
-Market & Limit Orders: Handles both order types seamlessly.
-
-Partial and Full Fills: Supports order execution with precise quantity management.
-
-Execution Timing: Measures and displays the time taken to execute orders in nanoseconds.
-
-Visualization: Displays the current state of the orderbook with color-coded bars.
-
-Design Principles
+**Design Principles**
 
 The project is built on Object-Oriented Programming (OOP) principles to ensure modularity, reusability, and maintainability. Key design aspects include:
-
-Modular Components
-
-main.cpp:
+- Modular Components main.cpp:
 
 Handles user interaction.
 
