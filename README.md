@@ -47,6 +47,7 @@ To compile and run the program, follow these steps:
 
 ### Partial Market Buy:
 <img width="368" alt="Screenshot 2024-12-28 at 3 25 54 PM" src="https://github.com/user-attachments/assets/b22e6086-39cb-4172-ac11-29830ac6c4ad" />
+
 ***
 
 ## Lessons Learned: 
