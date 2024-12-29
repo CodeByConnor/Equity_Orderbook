@@ -43,10 +43,10 @@ To compile and run the program, follow these steps:
 
 
 ### Partial Limit Buy:
-![Screenshot 2](ss/Screenshot%202024-12-28%20at%203.25.30%20PM.png)
+<img width="658" alt="Screenshot 2024-12-28 at 3 25 30 PM" src="https://github.com/user-attachments/assets/2532e1d0-b624-46e7-97f6-d9fcb6552246" />
 
 ### Partial Market Buy:
-![Screenshot 3](ss/Screenshot%202024-12-28%20at%203.25.54%20PM.png)
+<img width="368" alt="Screenshot 2024-12-28 at 3 25 54 PM" src="https://github.com/user-attachments/assets/b22e6086-39cb-4172-ac11-29830ac6c4ad" />
 ***
 
 ## Lessons Learned: 
