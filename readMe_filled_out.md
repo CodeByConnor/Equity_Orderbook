@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/bf6aeb1a-0e5e-4d77-845b-3f4ccc4c374f)
 
-# Equities Orderbook in C++
+# Equities Orderbook in C++ 
 
 This project simulates a basic orderbook in C++, a critical component in financial trading systems. It manages buy and sell orders using a FIFO (First-In, First-Out) order matching algorithm. The program supports both market and limit orders, handles partial and full fills, and visually represents the state of the orderbook with real-time performance metrics.
 
